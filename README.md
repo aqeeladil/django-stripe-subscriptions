@@ -9,7 +9,7 @@ A user web app that let users register, login and logout of their account.
 git clone https://github.com/aqeeladil/django-user-app.git
 cd django-user-app
 virtualenv venv
-pip install -r requirements.txt      # OR # pip install django
+pip install -r requirements.txt      (OR pip install django)
 python manage.py makemigrations
 python manage.py migrate
 python manage.py createsuperuser
