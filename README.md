@@ -1,4 +1,4 @@
-﻿# django-user-app
+﻿# Django User App
 A user web app that let users register, login and logout of their account. 
 
 <br>
@@ -16,7 +16,7 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 
-Now http://127.0.0.1:8000/ in your browser to view this project
+Now open http://127.0.0.1:8000/ in your browser to view this project
 
 <br><br>
 
